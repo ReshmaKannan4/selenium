@@ -7,7 +7,7 @@
 # list1[4]="resh"
 # print(list1)
 #
-# tup1=("new jersey", "chennai", "varkala")
+# tup1=("new jerse", "chennai", "varkala")
 # print(tup1)
 #
 # dict1={"curd rice": "vendakka", "upma": "curd"}
